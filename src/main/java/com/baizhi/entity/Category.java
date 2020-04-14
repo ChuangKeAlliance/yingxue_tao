@@ -7,5 +7,5 @@ package com.baizhi.entity;
  * @Version: 1.0
  */
 public class Category {
-
+  String name ="张三";
 }
