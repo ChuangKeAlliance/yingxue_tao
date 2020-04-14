@@ -7,5 +7,7 @@ package com.baizhi.entity;
  * @Version: 1.0
  */
 public class Category {
-  String name ="张三";
+  String name;
+  String level;
+  String parentId;
 }
